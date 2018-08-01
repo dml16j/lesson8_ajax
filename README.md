@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(August 1, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Duncan Lopatine)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In Assignment #8, I had to build an application that displays information about movies by using an API.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+( https://dml16j.github.io/lesson8_ajax/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (In this lesson, I learned what JSON and Ajax are and how they function.)
+2. (I learned how to build an application using an API.)
+3. (I learned how to add an API key to a javascript file.)
